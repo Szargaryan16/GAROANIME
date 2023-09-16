@@ -1,0 +1,144 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.IMG {
+    width: 1340px;
+    height: 800px;
+}
+
+.BOX1 {
+    width: 800px;
+    height: 600px;
+    border: 1px solid black;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    background-color: #4D4D4DB5;
+    box-shadow: 0px 2px 50px whitesmoke;
+
+}
+
+.BOX2 {
+    width: 450px;
+    height: 24px;
+    border: 0px solid black;
+    top: 18%;
+    position: absolute;
+    left: 12.5%;
+}
+
+.P1 {
+    font-family: sans-serif;
+    font-style: bold;
+    font-size: 21px;
+    text-shadow: 0px 0px 8px whitesmoke;
+}
+
+.BOX3 {
+    width: 250px;
+    height: 353px;
+    border: 1px solid black;
+    top: 35%;
+    left: 8%;
+    position: absolute;
+    box-shadow: 0px 0px 27px white;
+
+}
+
+.BOX4 {
+    width: 250px;
+    height: 35px;
+    border: 0px solid black;
+    top: 88.2%;
+    left: 8.1%;
+    position: absolute;
+    background-color: #DC553AFF;
+}
+
+.P2 {
+    font-style: bold;
+    font-family: sans-serif;
+    position: absolute;
+    top: 35%;
+    left: 7%;
+    color: whitesmoke;
+}
+
+.BOX5 {
+    width: 390px;
+    height: 250px;
+    border: 1px solid whitesmoke;
+    position: absolute;
+    left: 48%;
+    top: 44.5%;
+    background-color: #4D4D4DB5;
+    box-shadow: 0px 2px 17px white;
+
+}
+
+.BOX6 {
+    width: 100px;
+    height: 25px;
+    border: 1px solid whitesmoke;
+    position: absolute;
+    left: 48%;
+    top: 40%;
+    background-color: #F8F8F8C4;
+    box-shadow: 0px 2px 17px white;
+}
+
+.P6 {
+    font-family: sans-serif;
+    position: absolute;
+    left: 10%;
+    top: 10%;
+
+}
+
+.P3 {
+    font-family: sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 5%;
+    text-align: center;
+    text-shadow: 0px 0px 5px whitesmoke;
+}
+
+.P4 {
+    font-family: sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 72%;
+    left: 2%;
+    text-shadow: 0px 0px 5px whitesmoke;
+}
+
+.P5 {
+    font-family: sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    top: 82%;
+    left: 2%;
+    text-shadow: 0px 0px 5px whitesmoke;
+}
+
+.BOX7 {
+    width: 150px;
+    height: 25px;
+    border: 1px solid whitesmoke;
+    position: absolute;
+    left: 61.3%;
+    top: -11%;
+    background-color: #F8F8F8C4;
+    box-shadow: 0px 2px 17px white;
+}
+
+.P7{
+    font-family: sans-serif;
+    font-style: bold;
+    position: absolute;
+    left: 1%;
+    top: 15%;
+}
